@@ -11,7 +11,7 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 
 <br>
 
-![dogecon save the date](/images/dogecon2020date.png){:height="250px" width="500px"}
+![dogecon save the date](/images/dogecon2020date.png){:height="512px" width="1024px"}
 
 <!-- <h1><a style="padding: 10px; border: 1px solid; border-radius: 10px;" href="mainpages/carpelunamconstitution.pdf">Carpe Lunam's Constitution</a></h1> -->
 
