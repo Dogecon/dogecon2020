@@ -1,0 +1,23 @@
+{
+  "name": "CarpeLunam",
+  "version": "1.0.0",
+  "description": "##Sitemap",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dogecon/Carpe-Lunam-Website"
+  },
+  "author": "",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/Dogecon/Carpe-Lunam-Website/issues"
+  },
+  "homepage": "carpelunam.org"
+}

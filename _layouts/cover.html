@@ -1,0 +1,43 @@
+---
+  layout: coverSchema
+---
+<section class="coverContainer">
+  <div class="coverTitles">
+    <div style="font-size: 45px; line-height: 11px;">Carpe Lunam</div>
+    <div style="font-size: 35px;">Presents</div>
+    <div style="font-size: 48px;">Dogecon 2020</div>
+  </div>
+  <div class="moon" style="width: 500px; height: 500px;"></div>
+</section>
+<section class="container-fluid" style="background-color:{{page.bkg_color}};color:{{page.txt_color}};">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <article class="page">
+        <div class="page-content">
+          {{ content }}
+        </div>
+      </article>
+    </div>
+  </div>
+  <script src="js/three.min.js"></script>
+  <script src="js/moon.js"></script>
+
+  <script>
+    var loader = new THREE.FileLoader();
+    let el_3D = document.querySelector('.moon');
+    loader.load('js/moon.json', function (text) {
+
+      var player = new APP.Player();
+      player.load(JSON.parse(text));
+      player.setSize(el_3D.clientWidth, el_3D.clientHeight);
+      player.play();
+
+      el_3D.appendChild(player.dom);
+
+      window.addEventListener('resize', function () {
+        player.setSize(el_3D.clientWidth, el_3D.clientHeight);
+      });
+
+    });
+  </script>
+</section>
