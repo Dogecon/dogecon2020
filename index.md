@@ -16,7 +16,9 @@ Wondering what Dogecon will be like? Check out the [Memory Portal](http://dogeco
 
 <br>
 
-![dogecon save the date](/images/dogecon2020date.png){:height="512px" width="1024px"}
+![dogecon save the date](/images/dogecon2020date.png)
+
+<!-- {:height="512px" width="1024px"} -->
 
 <!-- <h1><a style="padding: 10px; border: 1px solid; border-radius: 10px;" href="mainpages/carpelunamconstitution.pdf">Carpe Lunam's Constitution</a></h1> -->
 
