@@ -9,7 +9,9 @@ nav_txt_color: hsl(275, 100%, 25%, 1)
 ## Dogecon Vancouver 2020 will take place from June 12-14 of this year.
 {:.rainbowText .rollingRainbow}
 
-More info, and early bird tickets, will go live on Valentine's Day!
+[Early bird tickets are now live!](https://coincards.com/dogecon/)
+
+Thank you to our partner Coincards for making these early ticket sales possible- BTCPayServer Merchants FTW!
 {:.rainbowText .rollingRainbow}
 
 Wondering what Dogecon will be like? Check out the [Memory Portal](http://dogecon.fun/mainpages/memories) from Dogecon 2018- it is our "mood board" for recreating the magic 2x. Contact carpelunam AT gmaildot com with any comments or questions!
